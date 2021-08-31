@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "css-pro" : "cross-env NODE_ENV=production tailwindcss -i src/styles.css -o dist/styles.css"
+    "css-pro": "cross-env NODE_ENV=production tailwindcss -i src/styles.css -o dist/styles.css"
   },
   "repository": {
     "type": "git",
